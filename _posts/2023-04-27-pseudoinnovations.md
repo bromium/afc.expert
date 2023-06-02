@@ -11,3 +11,5 @@ This fixation on payment methods is a perfect example of how we often try to sol
 📈 The core objectives of AFC systems should be to ensure full fare collection at minimum costs and to boost revenue for transport operators. These are the areas that need our attention and innovation, rather than continually exploring new ways to pay.
 
 It's better to shift the focus to what truly matters and make public transportation more efficient and profitable for everyone involved.
+
+!(/images/1683059074933.jpg)
