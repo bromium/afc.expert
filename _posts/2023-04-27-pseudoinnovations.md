@@ -1,6 +1,6 @@
 ---
 tile: "PseudoInnovations in Public Transport"
-date: 2022
+date: 2023-04-27
 permalink: /posts/2023/04/pseudoinnovations/
 ---
 
