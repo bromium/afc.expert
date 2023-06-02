@@ -12,4 +12,4 @@ This fixation on payment methods is a perfect example of how we often try to sol
 
 It's better to shift the focus to what truly matters and make public transportation more efficient and profitable for everyone involved.
 
-!(/images/1683059074933.jpg)
+![fare payments](/images/1683059074933.jpg)
