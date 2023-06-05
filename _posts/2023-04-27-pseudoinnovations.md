@@ -1,7 +1,8 @@
 ---
-tile: "PseudoInnovations in Public Transport"
-date: 2023-04-27
+tile: Pseudo-Innovations in Public Transport
+date: 2023-04-27T00:00:00.000Z
 permalink: /posts/2023/04/pseudoinnovations/
+published: true
 ---
 
 It's both amusing and ironic to see how innovations in automated fare collection (AFC) for public transit are predominantly focused on various methods of payment: QR codes, biometrics, bank cards, and the countless "* Pays" options.
