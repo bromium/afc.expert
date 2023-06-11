@@ -1,5 +1,5 @@
 ---
-tile: Pseudo-Innovations in Public Transport
+title: Pseudo-Innovations in Public Transport
 date: 2023-04-27T00:00:00.000Z
 permalink: /posts/2023/04/pseudoinnovations/
 published: true
