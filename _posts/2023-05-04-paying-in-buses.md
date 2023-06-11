@@ -16,3 +16,5 @@ I'm strongly convinced that the future of fare collection lies in moving away fr
 This shift represents the real innovation and addresses the core issues, such as on-board payment processing and handling, stable connection, and fast transactions. This is the real challenge.
 
 So, I can't help but question those archaic ideas that hold us back with in-vehicle payments, regardless of how innovative they may appear to be...
+
+![](/images/1683061125054.jpg)
