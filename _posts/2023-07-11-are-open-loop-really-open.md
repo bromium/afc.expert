@@ -30,4 +30,4 @@ Disclaimer: I was an early adopter of contactless bank payments in public transi
 
 While they understandably have a financial stake in this matter, it is imperative to consider the long-term implications for public transport. Thorough analysis of all pros and cons should precede any drastic shifts in operational methodology. Perhaps, there are other ways to balance the interests of card networks, public transit agencies, operators, and passengers without resorting to sweeping changes.
 
-!(/images/are-open-loop-really-open.png)
+![public transport dead end](/images/are-open-loop-really-open.png)
