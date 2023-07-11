@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Open-Loop Fare Capping: Rewarding Passengers For Their Past Actions?'
 date: 2023-07-05
 permalink: /posts/2023/07/open-loop-fare-capping-doubtful-rewards.html
