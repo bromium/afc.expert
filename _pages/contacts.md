@@ -1,5 +1,5 @@
 ---
-title: "Contact Lev Denisov (Automated Fare Collection Expert)"
+title: "Contacts"
 permalink: "/contacts/"
 ---
 

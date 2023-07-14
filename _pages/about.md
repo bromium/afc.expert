@@ -1,11 +1,11 @@
 ---
-permalink: /
+permalink: /about.html
 title: "Breathing Back Intelligence into Innovations in Electronic Ticketing for Public Transport"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+
 ---
 
 With over 18 years of expertise, I've been instrumental in driving the success of public transport operators, public transit agencies, AFC system operators, and investors in AFC and electronic ticketing systems. By designing, implementing, and optimizing AFC systems, I have consistently delivered value and efficiency to enhance the ticketing and fare collection landscape.
