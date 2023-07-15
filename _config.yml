@@ -32,7 +32,7 @@ comments:
     colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -187,6 +187,9 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /posts/:year/:month/:day/:title:output_ext
 
 
 # Defaults
@@ -252,7 +255,8 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
+permalink: /:categories/:year/:month/:day/:title:output_ext
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

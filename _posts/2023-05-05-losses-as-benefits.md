@@ -1,6 +1,5 @@
 ---
 title: "Public Transport: Losses As Benefits"
-
 ---
 
 You might be shocked to learn that Automated Fare Collection (AFC) for Public Transport could be the only industry where customers' financial losses are portrayed as a benefit.

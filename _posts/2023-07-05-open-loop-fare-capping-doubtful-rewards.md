@@ -1,7 +1,5 @@
 ---
 title: 'Open-Loop Fare Capping: Rewarding Passengers For Their Past Actions?'
-date: 2023-07-05
-permalink: /posts/2023/07/open-loop-fare-capping-doubtful-rewards.html
 ---
 
 Here's a classic example of the common narrative about 'open-loop' systems in public transit. 'Riders... can just ‘tap and ride’, safe in the knowledge that they’ll only be charged the most advantageous fare based on their journeys.'

@@ -1,7 +1,5 @@
 ---
 title: 'Automated Fare Collection Systems Are More Than Just Cashless Payments 🚌💳'
-date: 2023-04-25
-permalink: /posts/2023/04/afc-misconception/
 ---
 One misconception that deeply upsets me is when people - including the general public, AFC vendors, and even public transport professionals - associate automated fare collection (AFC) systems solely with cashless payments using bank cards inside transport vehicles 🚍.
 

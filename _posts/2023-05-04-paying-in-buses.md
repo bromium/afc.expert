@@ -1,5 +1,4 @@
 ---
-date: 2023-05-04
 title: "Who said passengers should pay in buses?"
 ---
 
