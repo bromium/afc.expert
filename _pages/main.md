@@ -5,8 +5,6 @@ excerpt: "AFC Expert Website"
 author_profile: true
 ---
 
-New repo
-
 Hello and welcome to AFC Expert! My name is Lev Denisov, and I've dedicated my professional life to studying, understanding, and enhancing automated fare collection (AFC) systems in public transit.
 
 As an experienced professional in the field, I have cultivated an extensive knowledge and developed innovative insights that I'm keen to share with a wider audience.
