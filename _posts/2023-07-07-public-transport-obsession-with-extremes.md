@@ -1,5 +1,6 @@
 ---
 title: "Public Transport: Why the Obsession with Extremes?"
+featured: true
 ---
 
 The clamour to 'revolutionize' public transport is growing louder: open-loop systems, ABT, MaaS and shutting down ticket sales offices, and the list goes on.

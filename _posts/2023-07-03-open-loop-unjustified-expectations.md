@@ -1,5 +1,6 @@
 ---
 title: "Open-Loop Payments in Public Transit: The Unjustified Expectations"
+featured: true
 ---
 
 The more I get involved in open-loop payments in public transit, the more I'm noticing an alarming trend: many proponents, including vendors, banks, and card networks, seem to lack a comprehensive understanding of what they're advocating for.

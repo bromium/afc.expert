@@ -1,5 +1,6 @@
 ---
 title: 'Open-Loop Fare Payments in Public Transit: Are They Really Open?'
+featured: true
 ---
 
 Open-loop fare payments are often touted as the panacea for public transit, promising streamlined operations and a superior passenger experience. However, when we delve deeper, the question arises: Are they truly as "open" as the terminology implies?

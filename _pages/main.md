@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Exploring the Future of Automated Fare Collection Systems"
+title: "Exploring the Future of AFC – Automated Fare Collection Systems"
 excerpt: "AFC Expert Website"
 author_profile: true
 ---
@@ -16,18 +16,30 @@ Here on this website, you'll find insightful blog posts, the latest news, my tho
 
 ![Lev A. Denisov](/images/afc-expert-lev-denisov.png)
 
-## Latest Thoughts:
+## [Latest Insights](/posts/)
 
-Stay up-to-date with my latest musings and explorations in the world of AFC. In my posts, I examine pressing issues, explore potential solutions, and highlight noteworthy advancements in the field. 
+Stay up-to-date with my latest musings and explorations in the world of AFC. In my posts, I examine pressing issues, explore potential solutions, and highlight noteworthy advancements in the field.
 
-## About Me:
+
+{% assign fp = site.posts | where: 'featured', true %}
+{% for post in fp %}
+
+ 
+ [{{ post.title }}]({{ post.url }})
+  
+{% endfor %}
+
+[View All Insights](/posts/)
+
+
+## [About Me](/about/)
 
 Learn more about my journey in the AFC industry and the experience I bring to my analyses and discussions. 
 
-## Contact:
+## [Contact](/contacts/)
 
 Whether you have a query, comment, or would like to discuss potential collaborations, I'd be delighted to hear from you. 
 
-### Let's delve into the dynamic and transformative world of AFC systems together!
+## Let's delve into the dynamic and transformative world of AFC systems together!
 
 

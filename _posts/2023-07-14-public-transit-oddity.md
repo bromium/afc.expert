@@ -1,5 +1,6 @@
 ﻿---
 title: 'Rewarding Customers for Past Actions: An Oddity Unique to Public Transit?'
+featured: true
 ---
 
 Sometimes, I encounter a concept so bizarre that it stops me in my tracks. The idea of rewarding customers for past actions in public transit is one such example. It confounds me every time.
